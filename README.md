@@ -48,6 +48,10 @@ A Vue.js SPA serves as the visual frontend, featuring:
 
 • Real-time and historical traffic visualization.
 
+## Demo:
+
+
+
 • Scalable architecture using Kafka for durability and horizontal coordination.
 
 • Modular design supporting gRPC, Kafka, WebSockets, and Vue.js frontend.

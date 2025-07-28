@@ -53,4 +53,4 @@ A Vue.js SPA serves as the visual frontend, featuring:
 • Modular design supporting gRPC, Kafka, WebSockets, and Vue.js frontend.
 
 ## Demo:
-[![](https://markdown-videos-api.jorgenkh.no/youtube/W_HJ4eimxNw)](https://youtu.be/W_HJ4eimxNw)
+[![](https://i.ytimg.com/vi/W_HJ4eimxNw/maxresdefault.jpg)](https://youtu.be/W_HJ4eimxNw)
